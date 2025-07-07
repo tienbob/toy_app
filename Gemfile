@@ -11,7 +11,7 @@ gem "puma",            "~> 6.0"
 gem "bootsnap",        "~> 1.16", require: false
 
 group :development, :test do
-  gem "sqlite3", "~> 1.6"
+  gem "sqlite3", "~> 2.7"
   gem "debug", platforms: %i[ mri mingw x64_mingw ]
 end
 
