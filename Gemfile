@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "rails", "~> 8.0.2"
+gem "rails", "~> 8.1.1"
 gem "sassc-rails",     "~> 2.1"
 gem "sprockets-rails", "~> 3.4"
 gem "importmap-rails", "~> 1.1"
