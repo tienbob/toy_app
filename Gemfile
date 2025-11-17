@@ -8,7 +8,7 @@ gem "turbo-rails",     "~> 1.4"
 gem "stimulus-rails",  "~> 1.2"
 gem "jbuilder",        "~> 2.11"
 gem "puma",            "~> 6.0"
-gem "bootsnap",        "~> 1.16", require: false
+gem "bootsnap",        "~> 1.19", require: false
 
 group :development, :test do
   gem "sqlite3", "~> 1.6"
